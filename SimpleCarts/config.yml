@@ -1,0 +1,39 @@
+BlockIDs:
+  booster: 41
+  bouncer: 35
+  brake: 88
+  ejector: 42
+  elevator: 57
+  intersection: 45
+  station: 49
+Collector:
+  active: true
+  auto-dispose: false
+Dispenser:
+  active: true
+  auto-refill: false
+Economy:
+  enable-vault: false
+  cost-per-ride: 20
+Locale:
+  override: false
+  iso-code: enUS
+Minecart:
+  destroy-on-eject: false
+  drop-on-eject: false
+  destroy-on-exit: false
+  drop-on-exit: false
+  punch-to-stop: true
+  speed-multiplier: 100
+Path:
+  remove-empty-carts: false
+  remove-entities: true
+  kick-players: false
+Redstone:
+  booster: true
+  bouncer: true
+  brake: true
+  ejector: true
+  elevator: true
+  station: true
+Worlds:

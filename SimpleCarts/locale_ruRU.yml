@@ -1,0 +1,101 @@
+#Needs review
+ALTLANG: "информация %s для Русского перевода!"
+
+#Needs review
+CARTNULL: "Вы не в вагонетке."
+
+#Needs review
+CARTPUNCH: "Ударьте строну вагонетки , в направлении , в которую вы хотите поехать"
+
+#Needs review
+CMD: "Тип %s для команды."
+
+#Needs review
+CMDBLOCKS: "Просмотреть блоки управления по ID."
+
+#Needs review
+CMDDEBUG: "переключение режима отладки уведомлений."
+
+#Needs review
+CMDEJECT: "Заставит вас выйти из вагонетки."
+
+#Needs review
+CMDHELP: "Команда ссылки."
+
+#Needs review
+CMDLANG: "Переключение языка."
+
+#Needs review
+CREATEBOOSTER: "Вы создали бустер!"
+
+#Needs review
+CREATEBOUNCER: "Вы создали вышибалу!"
+
+#Needs review
+CREATEBRAKE: "Вы создали тормозную рельсу!"
+
+#Needs review
+CREATEEJECTOR: "Вы создали выбрасыватель!"
+
+#Needs review
+CREATEELEVATOR: "Вы создали половину лифта!"
+
+#Needs review
+CREATEINTERSECTION: "Вы создали пересечение!"
+
+#Needs review
+CREATESTATION: "Вы создали станцию!"
+
+#Needs review
+DENYCONSOLE: "Эта команда не может быть использована в консоли."
+
+#Needs review
+DENYLANGUAGE: "Эта команда не доступна на вашем языке."
+
+#Needs review
+NEWLANG: "Ваш язык: %s!"
+
+#Needs review
+NOTIFICATIONSDISABLED: "Уведомления отключены для %s."
+
+#Needs review
+NOTIFICATIONSENABLED: "Уведомления отключены для %s."
+
+#Needs review
+NOTSOLID: "%s ID не установлен. Проверьте конфигурацию!"
+
+#Needs review
+PLAYERKICK: "Выброшен из вагонетки %s."
+
+#Needs review
+PLUGINDESCRIPTION: "Упрощенная вагонетка для сервера Bukkit."
+
+#Needs review
+PLUGINDISABLED: "(Плагин выключен в вашем мире.)"
+
+#Needs review
+PLUGINENABLED: "(Плагин включен в вашем мире.)"
+
+#Needs review
+SPEEDHIGH: "Множитель скорости больше 500. Проверьте конфигурацию!"
+
+#Needs review
+TITLEBLOCKS: "%s блоки управления:"
+
+#Needs review
+TITLEHELP: "%s команды:"
+
+#Needs review
+VAULTCHARGE: "Вы израсходовали %s."
+
+#Needs review
+VAULTDISABLED: "Использование Vault для экономики - выключено."
+
+#Needs review
+VAULTENABLED: "Использование Vault для экономики - включено."
+
+#Needs review
+VAULTERROR: "Произошла ошибка: %s."
+
+#Needs review
+VAULTNOTIFY: "Это будет стоить вам %s."

@@ -1,0 +1,77 @@
+ALTLANG: "Danksagungen für die Deutsche Übersetzung gehen an %s."
+
+CARTNULL: "Du bist nicht in einer Lore."
+
+CARTPUNCH: "Schlag die Lore in die Richtung, in die du fahren möchtest."
+
+# Needs review
+CMD: "Befehlreferenz."
+
+# Needs review
+CMDBLOCKS: "View control blöcke durch ID."
+
+# Needs review
+CMDDEBUG: "Aktiviert debugg Mitteilungen."
+
+# Needs review
+CMDEJECT: "Zwingt einen Benutzer von einer Lore."
+
+# Needs review
+CMDHELP: "Generelle Plugin Informationen."
+
+# Needs review
+CMDLANG: "Sprache gewechselt."
+
+CREATEBOOSTER: "Du hast einen Booster erstellt!"
+
+CREATEBOUNCER: "Du hast einen Bouncer erstellt!"
+
+CREATEBRAKE: "Du hast eine Brake erstellt!"
+
+CREATEEJECTOR: "Du hast einen Ejector erstellt!"
+
+CREATEELEVATOR: "Du hast einen halben Elevator erstellt!"
+
+CREATEINTERSECTION: "Du hast eine Intersection erstellt!"
+
+CREATESTATION: "Du hast eine Station erstellt!"
+
+DENYCONSOLE: "Dieser Befehl kann nicht über die Konsole benutzt werden."
+
+DENYLANGUAGE: "Dieser Befehl ist nicht in deiner Sprache verfügbar."
+
+NEWLANG: "Deine Sprache ist nun %s!"
+
+NOTIFICATIONSDISABLED: "Mitteilungen sind für %s nicht aktiviert."
+
+NOTIFICATIONSENABLED: "Mitteilungen sind für %s aktiviert."
+
+NOTSOLID: "%s ID is keine solide. Überprüfe die config.yml Datei!"
+
+PLAYERKICK: "Kicked %s wegen der Blockierung der Loren."
+
+PLUGINDESCRIPTION: "Vereinfachte Loren Funktionalität für Bukkit Server."
+
+# Needs review
+PLUGINDISABLED: "(Plugin ist nicht für diese Welt aktiviert.)"
+
+# Needs review
+PLUGINENABLED: "(Plugin ist für diese Welt aktiviert.)"
+
+SPEEDHIGH: "Der Geschwindigkeitsmultiplikator ist größer als 500. Überprüfe die Konfiguration Datei!"
+
+# Needs review
+TITLEBLOCKS: "SimpleCarts Control Blocks:"
+
+# Needs review
+TITLEHELP: "%s Befehle:"
+
+VAULTCHARGE: "Dir wurden %s vom Konto abgebucht."
+
+VAULTDISABLED: "Vault ist nicht aktiviert."
+
+VAULTENABLED: "Vault ist aktiviert."
+
+VAULTERROR: "Ein Fehler ist aufgetreten: %s."
+
+VAULTNOTIFY: "Das wird dich %s kosten."

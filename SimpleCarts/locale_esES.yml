@@ -1,0 +1,83 @@
+ALTLANG: "¡El crédito a %s para la traducción español!"
+
+# Needs review
+CARTNULL: "Usted no está en un Vagoneta."
+
+CARTPUNCH: "Golpear el Vagoneta en la dirección que desea viajar."
+
+# Needs review
+CMD: "Referencia de comando."
+
+# Needs review
+CMDBLOCKS: "Ver los bloques de control por ID."
+
+# Needs review
+CMDDEBUG: "Activa o desactiva la información de depuración."
+
+# Needs review
+CMDEJECT: "Eliminar usuario de un Vagoneta."
+
+# Needs review
+CMDHELP: "Información general de SimpleCarts."
+
+# Needs review
+CMDLANG: "Cambiar de idioma."
+
+CREATEBOOSTER: "¡Se ha creado un Booster!"
+
+CREATEBOUNCER: "Se ha creado un Bouncer!"
+
+CREATEBRAKE: "¡Se ha creado un Brake!"
+
+CREATEEJECTOR: "¡Se ha creado un Ejector!"
+
+# Needs review
+CREATEELEVATOR: "¡Se ha creado la mitad de un Elevator!"
+
+CREATEINTERSECTION: "¡Se ha creado un Intersection!"
+
+CREATESTATION: "¡Se ha creado un Station!"
+
+DENYCONSOLE: "Este comando no se puede usar desde la consola."
+
+DENYLANGUAGE: "Este comando no está disponible en su idioma."
+
+NEWLANG: "¡Su idioma es ahora %s!"
+
+# Needs review
+NOTIFICATIONSDISABLED: "Notificaciones desactivado para %s."
+
+# Needs review
+NOTIFICATIONSENABLED: "Notificaciones activado para %s."
+
+NOTSOLID: "%s ID no es sólida. ¡Compruebe configuración!"
+
+# Needs review
+PLAYERKICK: "Expulsado por bloquear Vagoneta de %s."
+
+PLUGINDESCRIPTION: "Simplificado funcionalidad de Vagoneta."
+
+# Needs review
+PLUGINDISABLED: "(Plugin está desactivado en este mundo.)"
+
+# Needs review
+PLUGINENABLED: "(Plugin está activado en este mundo.)"
+
+SPEEDHIGH: "Multiplicador de velocidad es mayor que 500. ¡Compruebe configuración!"
+
+# Needs review
+TITLEBLOCKS: "SimpleCarts Bloques de Control:"
+
+# Needs review
+TITLEHELP: "Comandos de %s:"
+
+# Needs review
+VAULTCHARGE: "Usted ha perdido %s."
+
+VAULTDISABLED: "Uso de Vault para la economía está desactivado."
+
+VAULTENABLED: "Uso de Vault para la economía está activado."
+
+VAULTERROR: "Se produjo un error: %s."
+
+VAULTNOTIFY: "Esto le costará %s."

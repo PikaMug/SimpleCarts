@@ -1,0 +1,72 @@
+ALTLANG: "Credit to %s for English translation!"
+
+CARTNULL: "You aren't in a Minecart."
+
+CARTPUNCH: "Punch the Minecart in the direction you wish to travel."
+
+# Needs review
+CMD: "Type %s for commands."
+
+CMDBLOCKS: "View control blocks by ID."
+
+# Needs review
+CMDDEBUG: "Toggle debug notifications."
+
+# Needs review
+CMDEJECT: "Force self to exit a Minecart."
+
+# Needs review
+CMDHELP: "Command reference."
+
+# Needs review
+CMDLANG: "Switch languages."
+
+CREATEBOOSTER: "You have created a Booster!"
+
+CREATEBOUNCER: "You have created a Bouncer!"
+
+CREATEBRAKE: "You have created a Brake!"
+
+CREATEEJECTOR: "You have created an Ejector!"
+
+CREATEELEVATOR: "You have created half of an Elevator!"
+
+CREATEINTERSECTION: "You have created an Intersection!"
+
+CREATESTATION: "You have created a Station!"
+
+DENYCONSOLE: "This command cannot be used from the console."
+
+DENYLANGUAGE: "This command is not available in your language."
+
+NEWLANG: "Your language is now %s!"
+
+NOTIFICATIONSDISABLED: "Notifications disabled for %s."
+
+NOTIFICATIONSENABLED: "Notifications enabled for %s."
+
+NOTSOLID: "%s ID is not solid. Check config!"
+
+PLAYERKICK: "Kicked for blocking %s's cart."
+
+PLUGINDESCRIPTION: "Simplified Minecart functionality for Bukkit servers."
+
+PLUGINDISABLED: "(Plugin is disabled in this world.)"
+
+PLUGINENABLED: "(Plugin is enabled in this world.)"
+
+SPEEDHIGH: "Speed multiplier is greater than 500. Check config!"
+
+TITLEBLOCKS: "%s Control Blocks:"
+
+TITLEHELP: "%s Commands:"
+
+VAULTCHARGE: "You have been charged %s."
+
+VAULTDISABLED: "Using Vault for economy is disabled."
+
+VAULTENABLED: "Using Vault for economy is enabled."
+
+VAULTERROR: "An error occurred: %s."
+
+VAULTNOTIFY: "This will cost you %s."

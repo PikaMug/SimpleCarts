@@ -1,0 +1,80 @@
+ALTLANG: "Traduction français réalisée par %s !"
+
+CARTNULL: "Vous n'êtes pas dans un Wagonnet."
+
+CARTPUNCH: "Taper le Wagonnet dans la direction souhaitée."
+
+# Needs review
+CMD: "Référence des commandes."
+
+# Needs review
+CMDBLOCKS: "Voir les blocs de contrôle par ID."
+
+# Needs review
+CMDDEBUG: "Bascule les notifications de debug."
+
+# Needs review
+CMDEJECT: "Force la sortie de l'utilisateur."
+
+# Needs review
+CMDHELP: "Information générale du plugin."
+
+# Needs review
+CMDLANG: "Langues commutateurs."
+
+CREATEBOOSTER: "Vous avez créé un Booster !"
+
+CREATEBOUNCER: "Vous avez créé un Bouncer !"
+
+CREATEBRAKE: "Vous avez créé un Brake !"
+
+CREATEEJECTOR: "Vous avez créé un Ejector !"
+
+# Needs review
+CREATEELEVATOR: "Vous avez créé un Elevator !"
+
+CREATEINTERSECTION: "Vous avez créé un Intersection !"
+
+CREATESTATION: "Vous avez créé un Station !"
+
+DENYCONSOLE: "Cette commande ne peut pas être utilisée depuis la console."
+
+DENYLANGUAGE: "Cette commande n'est pas disponible dans votre langue."
+
+# Needs review
+NEWLANG: "Votre langue est maintenant en %s !"
+
+NOTIFICATIONSDISABLED: "Notification désactivée pour %s."
+
+NOTIFICATIONSENABLED: "Notification activée pour %s."
+
+NOTSOLID: "%s ID n'est pas un bloc solide. Vérifier la configuration !"
+
+PLAYERKICK: "Exclu pour avoir bloqué le Wagonnet de %s."
+
+# Needs review
+PLUGINDESCRIPTION: "Gestion simplifiée des Wagonnetes pour les serveurs Bukkit."
+
+# Needs review
+PLUGINDISABLED: "(Le plugin est désactivé pour ce monde.)"
+
+# Needs review
+PLUGINENABLED: "(Le plugin est activé pour ce monde.)"
+
+SPEEDHIGH: "Multiplicateur de vitesse supérieur à 500. Vérifier la configuration !"
+
+# Needs review
+TITLEBLOCKS: "Blocs %s de Contrôle:"
+
+# Needs review
+TITLEHELP: "%s Commandes :"
+
+VAULTCHARGE: "Vous avez été débité de %s."
+
+VAULTDISABLED: "L'utilisation de Vault pour l'économie est désactivée."
+
+VAULTENABLED: "L'utilisation de Vault pour l'économie est activée."
+
+VAULTERROR: "Erreur non prévue : %s"
+
+VAULTNOTIFY: "Cela va vous coûter %s."
