@@ -431,6 +431,7 @@ public class SimpleCartsVehicleListener implements Listener {
 	}
 	
 	public String getDirection(float yaw) {
+		yaw = (yaw - 90) % 360;
 		if (yaw < 0.0F) {
 			yaw += 360.0F;
 		}
